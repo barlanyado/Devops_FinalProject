@@ -8,6 +8,6 @@
 %>
 </head>
 <body>
-<p>Hello!  The time is now <%=date%></p>
+<p>Hello!  The time now is <%=date%></p>
 </body>
 </html>
